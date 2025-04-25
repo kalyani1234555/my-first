@@ -1,0 +1,6 @@
+Country|Capital|CC|CC3|IAC|Timezone|Currency
+Afghanistan|Kabul|AF|AFG|+93|UTC+04:30|Afghan afghani
+Aland Islands|Mariehamn|AX|ALA|+358|UTC+02:00|EURO
+Albania|Tirgana|AL|ALB|+355|utc+01:00|Albanian lek
+Algeria| Algiers|DZ|DZA|+213|UTC|Algerian dinar
+Antartica||AQ|ATA|||

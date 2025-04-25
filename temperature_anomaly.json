@@ -1,0 +1,18 @@
+{
+  "description" : {
+    "title": "Global Land and Ocean Temperature Anomalies, Janurary-December",
+    "units": "Degrees Celsius",
+    "base_period": "1901-2000",
+    "missing": -999
+  },
+  "data" : {
+    "1880": "-0.12",
+    "1881": "-0.09",
+    "1882": "-0.10",
+    "1883": "-0.18",
+    "1884": "-0.27",
+    "1885": "-0.25"
+  },
+  "citation": "NOAA National Centers for Environmental information, Climate at Glance: Global Time Series"
+
+}
